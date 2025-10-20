@@ -111,7 +111,7 @@ src/
 
 ## How It Works
 
-https://github.com/user-attachments/assets/3080b88c-d547-498e-9f62-e8d14686d6a1
+
 
 ### 1. Kaggle Download (kaggleDownloader.ts)
 
