@@ -24,7 +24,7 @@ This project automates the process of fetching baby names data from Kaggle, stor
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/divyanshu1218/Baby_Names.git
 cd emma-robot-plena-assignment
 ```
 
